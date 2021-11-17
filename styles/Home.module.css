@@ -114,3 +114,9 @@
     flex-direction: column;
   }
 }
+
+/* new custom styles */
+
+.canvasArea {
+  background-color: lightcoral;
+}
